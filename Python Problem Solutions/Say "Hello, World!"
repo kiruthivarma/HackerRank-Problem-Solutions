@@ -1,13 +1,12 @@
-#It's very simple
+#Print function method:-
 
 print("Hello, World!")
 
-#you can also use the below code
+#String method:-
 
 v = "Hello, World!"
-
 print(v)
 
-#Explaination 
-
-In this code, v is an string used to the characters
+#Explaination:-
+      # In this code, v is an string used to store the characters...
+      # The print() function in Python is used to print a specified message on the screen...
