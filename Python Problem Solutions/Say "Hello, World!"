@@ -1,0 +1,13 @@
+#It's very simple
+
+print("Hello, World!")
+
+#you can also use the below code
+
+v = "Hello, World!"
+
+print(v)
+
+#Explaination 
+
+In this code, v is an string used to the characters
